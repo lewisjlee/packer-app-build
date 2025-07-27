@@ -12,7 +12,6 @@ packer-app-build/
 ├── scripts/
 │   └── deploy.sh          # AMI 프로비저닝 스크립트
 ├── packer-demo.json       # Packer 설정 파일
-├── jenkins-terraform.sh   # 기존 빌드 스크립트
 ├── Jenkinsfile           # Jenkins 파이프라인 정의
 └── README.md             # 프로젝트 문서
 ```
